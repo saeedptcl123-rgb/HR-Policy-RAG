@@ -68,7 +68,7 @@ st.markdown(
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 # The requested Groq model
-GROQ_MODEL ="openai/gpt-oss-120b""
+GROQ_MODEL ="openai/gpt-oss-120b"
 
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 150
